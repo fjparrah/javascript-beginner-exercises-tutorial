@@ -1,6 +1,6 @@
 function getRandomInt()
 {
-	let randomNumber = Math.floor(Math.random() * 10) + 1;
+	let randomNumber = Math.floor(Math.random() * 6);
 	return randomNumber;
 }
 
